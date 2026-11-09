@@ -32,7 +32,8 @@ The processor consists of the following major modules:
 
 
 
-4.Supported Instructions
+
+ 4.Supported Instructions
 
 Instruction Type| Instructions
 I-Type| ADDI
