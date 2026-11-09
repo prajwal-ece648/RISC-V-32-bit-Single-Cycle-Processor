@@ -17,6 +17,7 @@ The design is developed, simulated and synthesised using Xilinx Vivado 2025.2.
 - Evaluate FPGA resource utilisation through synthesis.
 
 3. Processor Architecture
+   
 The processor consists of the following major modules:
 
 1. Program Counter (PC)
@@ -28,7 +29,7 @@ The processor consists of the following major modules:
 7. PC + 4 Adder
 8. Data Memory
 9. Top-Level Processor
-
+    
 4. Supported Instructions
 
 Instruction Type| Instructions
