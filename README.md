@@ -95,21 +95,21 @@ Implementation Notes:
 
 9. Project Folder Structure
 
-RISC-V-32-bit-Single-Cycle-Processor/
-├── rtl/
-│   └── Verilog RTL design files
-├── tb/
-│   └── Individual module testbenches
-├── docs/
-│   ├── Architecture diagram
-│   ├── Elaborated design schematic
-│   ├── Main simulation waveform
-│   ├── Utilization report
-│   └── waveforms/
-│       └── Individual module waveforms
-└── README.md
+- RISC-V-32-bit-Single-Cycle-Processor/
+  - rtl/
+    - Verilog RTL design files
+  - tb/
+    - Individual module testbenches
+  - docs/
+    - Architecture diagram
+    - Elaborated design schematic
+    - Main simulation waveform
+    - Utilization report
+    - waveforms/
+      - Individual module waveforms
+  - README.md
 
-10. Future Improvements
+11. Future Improvements
 
 - Extend the processor to support additional RISC-V instructions.
 - Improve verification using SystemVerilog Assertions.
