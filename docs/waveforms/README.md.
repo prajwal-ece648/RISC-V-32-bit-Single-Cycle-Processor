@@ -1,1 +1,16 @@
-Individual simulation waveforms for RISC-V processor modules
+Individual Module Waveforms
+
+This folder contains individual simulation waveform screenshots for the modules of the 32-bit RISC-V Single-Cycle Processor.
+
+Included Waveforms
+
+1. Program Counter (PC)
+2. Instruction Memory
+3. Control Unit
+4. Register File
+5. Immediate Generator
+6. Arithmetic Logic Unit (ALU)
+7. PC + 4 Adder
+8. Data Memory
+
+Each waveform demonstrates the functionality and simulation behaviour of its respective module.
