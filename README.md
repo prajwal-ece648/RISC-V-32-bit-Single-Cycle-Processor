@@ -6,7 +6,7 @@ This project focuses on the design and verification of a 32-bit RISC-V Single-Cy
 The processor is designed using modular RTL architecture. Each module performs a specific function, and all modules are integrated to execute RISC-V instructions.
 The design is developed, simulated and synthesised using Xilinx Vivado 2025.2.
 
-3. Project Objectives
+2. Project Objectives
 
 - Understand the architecture of a 32-bit RISC-V processor.
 - Design individual processor modules using Verilog HDL.
