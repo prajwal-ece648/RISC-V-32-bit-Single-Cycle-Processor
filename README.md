@@ -28,13 +28,10 @@ The processor consists of the following major modules:
 6. Arithmetic Logic Unit (ALU)
 7. PC + 4 Adder
 8. Data Memory
-9. Top-Level Processor
+9. Top-Level Processor.
 
-
-
-
-4. Supported Instructions
-
+4 . Supported Instructions
+   
 Instruction Type| Instructions
 I-Type| ADDI
 R-Type| ADD, SUB, AND, OR, XOR, SLT
