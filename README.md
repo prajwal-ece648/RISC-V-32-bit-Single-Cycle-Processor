@@ -109,7 +109,7 @@ Implementation Notes:
       - Individual module waveforms
   - README.md
 
-11. Future Improvements
+10. Future Improvements
 
 - Extend the processor to support additional RISC-V instructions.
 - Improve verification using SystemVerilog Assertions.
